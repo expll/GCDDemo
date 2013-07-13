@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'GCDDemo' target in the 'GCDDemo' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif
